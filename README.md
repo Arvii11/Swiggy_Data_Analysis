@@ -79,7 +79,7 @@ Several visualizations were created to extract insights, including:
 
 ## Conclusion
 
-The analysis of Swiggy data provides valuable insights into restaurant performance and customer preferences in Hyderabad. These insights can help Swiggy and restaurant owners make data-driven decisions to improve customer satisfaction and operational efficiency.
+The analysis of Swiggy data provides valuable insights into restaurant performance and customer preferences. These insights can help Swiggy and restaurant owners make data-driven decisions to improve customer satisfaction and operational efficiency.
 
 ## Future Work
 
