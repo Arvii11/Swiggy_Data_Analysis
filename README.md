@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project involves the extraction, cleaning, and analysis of restaurant data from the Swiggy platform. The aim is to understand various factors such as restaurant ratings, delivery times, pricing, and the availability of different cuisines. The analysis provides insights into customer preferences, restaurant performance, and trends in the Hyderabad area.
+This project involves the extraction, cleaning, and analysis of restaurant data from the Swiggy platform. The aim is to understand various factors such as restaurant ratings, delivery times, pricing, and the availability of different cuisines. The analysis provides insights into customer preferences, restaurant performance, and trends.
 
 ## Problem Statement
 
