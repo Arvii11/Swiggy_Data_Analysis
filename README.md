@@ -73,17 +73,13 @@ Several visualizations were created to extract insights, including:
 
 1. **Top-Rated Restaurants**: Identified the top 10 restaurants based on average ratings.
 2. **Cost Analysis**: Determined the average cost for two people across different restaurants.
-3. **Cuisine Popularity**: Found that North Indian cuisine is the most available in Hyderabad.
+3. **Cuisine Popularity**: Found that North Indian cuisine is the most available cuisine.
 4. **Delivery Times**: Most deliveries are completed within 30 to 40 minutes.
 5. **Cuisine Availability**: Fewer restaurants serve Italian food and beverages compared to other cuisines.
 
 ## Conclusion
 
 The analysis of Swiggy data provides valuable insights into restaurant performance and customer preferences. These insights can help Swiggy and restaurant owners make data-driven decisions to improve customer satisfaction and operational efficiency.
-
-## Future Work
-
-Further analysis can be performed by incorporating additional data points such as customer reviews, seasonal trends, and promotional impacts. Expanding the dataset to include other cities can also provide a broader perspective on customer preferences and restaurant performance.
 
 ## Usage
 
